@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">IntentTest</string>
+    <string name="text_pick">Pick</string>
+    <string name="text_call">Call</string>
+</resources>
